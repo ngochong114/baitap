@@ -7,6 +7,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/Dotnet.gitignore
 
+hello.html
+view.html
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
